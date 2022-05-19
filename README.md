@@ -29,8 +29,10 @@ the project went through following phases:
   As no paramteres were satisfied, the integrity of the data is questionable and it cannot be used to 
  find proper trends and make solid conclusions around it, But the findings can be used to provide directions to the work.
 ## 3. Process
+  The data processing involved discarding available datasets, creating new ones and cleaning required
+  ones.
   The data was processed using Google Sheets and Rstudio.
-  The steps taken for the processing are listed into new sheet in the same file.
+  The steps taken for the processing each sheet are listed into new sheet in the same file.
 ## 4. Analyze
   The analysis was done using R and the plots for respective findings were plotted for better 
   understanding of the stakeholders.
