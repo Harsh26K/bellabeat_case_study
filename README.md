@@ -31,7 +31,7 @@ the project went through following phases:
 ## 3. Process
   The data processing involved discarding available datasets, creating new ones and cleaning required
   ones.
-  The data was processed using Google Sheets and Rstudio.
+  The data was processed using Google Sheets and BigQuery.
   The steps taken for the processing each sheet are listed into new sheet in the same file.
 ## 4. Analyze
   The analysis was done using R and the plots for respective findings were plotted for better 
